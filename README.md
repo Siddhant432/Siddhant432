@@ -59,6 +59,16 @@ Hi, I'm [Siddhant Gogia](https://siddhant-gogia-portfolio.netlify.app/), a web d
 
 <hr>
 
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Siddhant432&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant432&size_weight=0.5&count_weight=0.5&theme=gotham" />
+
+
+</details>
+
+
 
 </br>
 
