@@ -8,7 +8,7 @@
 
 <br>
 
-Hi, I'm [Siddhant Gogia](https://siddhant-gogia-portfolio.netlify.app/), a web developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a productive guy.I'm proud to say that **I can succesfully push files on github using git bash.** Beside's Hacking stuff, I play bgmi 😎🔫.
+Hi, I'm [Siddhant Gogia](https://siddhant-gogia-portfolio.netlify.app/), a web developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a productive guy.I'm proud to say that **I can succesfully push files on github using git bash.** Beside's Hacking stuff, I love to play bgmi 😎🔫.
 
 <br>
 
